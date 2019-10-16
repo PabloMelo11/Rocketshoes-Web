@@ -8,6 +8,6 @@ Foi utlizado ESLint, Prettier, EditorConfig, Server JSON
 
 ![Dashboard Image](https://github.com/PabloMelo11/bootcamp-gostack-rocketshoes/blob/master/index.png)
 
-# Imagem do Cartinho de compra
+# Imagem do Carrinho de compra
 
 ![Cart Image](https://github.com/PabloMelo11/bootcamp-gostack-rocketshoes/blob/master/cart.png)
