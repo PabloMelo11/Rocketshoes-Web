@@ -2,7 +2,7 @@
 
 Nesse projeto foi desenvolvido um e-commerce com ReactJS e arquitetura flux.
 
-Foi utlizado ESLint, Prettier, EditorConfig, Server JSON
+Foi utlizado Redux, Redux SAGA, ESLint, Prettier, EditorConfig, Server JSON
 
 # Imagem do dashboard
 
